@@ -1,0 +1,14 @@
+llama-index
+python-dotenv
+llama-index-embeddings-huggingface
+sentence-transformers
+pypdf
+python-docx
+beautifulsoup4
+trafilatura
+llama-parse
+llama-index-llms-openai
+llama-index-readers-web
+docx2txt
+reportlab
+streamlit 
